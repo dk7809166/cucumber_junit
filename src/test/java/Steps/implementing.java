@@ -54,7 +54,7 @@ public class implementing {
 		
 	    Alert alert = driver.switchTo().alert();
 	    alert.accept();
-	    driver.quit();
+	    //driver.quit();
 	}
 
 
